@@ -12,5 +12,5 @@
       }
     ],
     "buildCommand": "pip install -r requirements.txt",
-    "devCommand": "fastapi run main.py"
+    "devCommand": "fastapi run src/main.py"
   }
